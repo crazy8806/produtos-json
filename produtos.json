@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Produto 1",
+        "descricao": "Descrição breve do produto 1.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto1",
+        "promocao": true
+    },
+    {
+        "nome": "Produto 2",
+        "descricao": "Descrição breve do produto 2.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto2",
+        "promocao": false
+    },
+    {
+        "nome": "Produto 3",
+        "descricao": "Descrição breve do produto 3.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto3",
+        "promocao": true
+    },
+    {
+        "nome": "Produto 4",
+        "descricao": "Descrição breve do produto 3.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto3"
+    },
+    {
+        "nome": "Produto 5",
+        "descricao": "Descrição do produto 4 em promoção.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto4",
+        "promocao": false
+    }
+    
+    
+]
