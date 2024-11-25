@@ -1,44 +1,72 @@
 [
     {
-        "nome": "Produto 1",
-        "descricao": "Descrição breve do produto 1.",
-        "imagem": "https://via.placeholder.com/150",
-        "link": "https://shopee.com.br/exemplo-produto1",
-        "promocao": true
+        "nome": "Sapateira Vertical",
+        "link": "https://shopee.com.br/Sapateira-Vertical-9-Prateleira-Organizador-i.1407655688.22998042844",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7rfgp-m30uz4y7unxj8d.webp",
+        "descricao": "Organize seus calçados com praticidade e economia de espaço! Essa sapateira vertical possui 9 prateleiras e é ideal para manter seus sapatos bem armazenados e ao alcance. Seu design compacto é perfeito para qualquer ambiente, como quartos, closets ou lavanderias. Feita com material leve e resistente, oferece durabilidade e funcionalidade. Fácil de montar e desmontar.",
+        "promocao": "true"
     },
     {
-        "nome": "Produto 2",
-        "descricao": "Descrição breve do produto 2.",
-        "imagem": "https://via.placeholder.com/150",
-        "link": "https://shopee.com.br/exemplo-produto2",
-        "promocao": false
+        "nome": "Massageador Eletrico",
+        "link": "https://shopee.com.br/Massageador-Elétrico-Profissional-Muscular-Pistola-Original-i.1407655688.21599554578",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7reqn-m2tlldezp8dp7d.webp",
+        "descricao": "Alivie dores e tensões musculares com este massageador elétrico de pistola. Ideal para relaxamento e recuperação, ele possui 4 cabeçais intercambiáveis e múltiplas velocidades, oferecendo massagens profundas e eficazes. Compacto e fácil de usar, é perfeito para aliviar a rigidez muscular e melhorar a circulação. Ideal para quem busca conforto e bem-estar.",
+        "promocao": "true"
     },
     {
-        "nome": "Produto 3",
-        "descricao": "Descrição breve do produto 3.",
-        "imagem": "https://via.placeholder.com/150",
-        "link": "https://shopee.com.br/exemplo-produto3",
-        "promocao": true
+        "nome": "Mini Umidificador",
+        "link": "https://shopee.com.br/Mini-umidificador-de-ar-ultrasonic-portátil-com-led-i.1407655688.22198058155",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7reno-m2tmhiu3yg0932.webp",
+        "descricao": "Mantenha o ar sempre fresco e saudável com este mini umidificador ultrassônico. Compacto e portátil, ele pode ser usado em qualquer ambiente, proporcionando umidade ideal para a sua pele e respiração. Conta com luz LED suave para criar um ambiente relaxante e confortável. Ideal para viagens, escritórios ou quartos. Fácil de usar e recarregar, é a solução perfeita para um ar mais fresco e hidratado.",
+        "promocao": "true"
     },
     {
-        "nome": "Produto 4",
-        "descricao": "Descrição breve do produto 3.",
-        "imagem": "https://via.placeholder.com/150",
-        "link": "https://shopee.com.br/exemplo-produto3"
+        "nome": "Mini ventilador de teto",
+        "link": "https://shopee.com.br/Mini-Ventilador-de-teto-super-silencioso-40W-i.1407655688.22493547718",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7renf-m2v29c930hwt81.webp",
+        "descricao": "Mantenha seu ambiente fresco e agradável com este mini ventilador de teto super silencioso. Com potência de 40W, ele oferece um desempenho eficiente sem fazer barulho, ideal para quartos, escritórios ou espaços pequenos. Seu design compacto e moderno permite fácil instalação e controle de temperatura, proporcionando conforto com discrição. Ideal para quem busca praticidade e tranquilidade.",
+        "promocao": "true"
     },
     {
-        "nome": "Produto 5",
-        "descricao": "Descrição do produto 4 em promoção.",
-        "imagem": "https://via.placeholder.com/150",
-        "link": "https://shopee.com.br/exemplo-produto4",
-        "promocao": false
+        "nome": "Raspador de Pé Eletrônico",
+        "link": "https://shopee.com.br/Raspador-de-Pé-Eletrônico-Calcanhar-Remoção-de-Calos-i.1407655688.23098038621",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7req0-m2tlp689hoz1a5.webp",
+        "descricao": "Mantenha seus pés suaves e bem cuidados com o raspador eletrônico para calcanhar. Ideal para a remoção de calos e pele ressecada, este aparelho é fácil de usar, eficiente e oferece resultados rápidos. Com design ergonômico, ele proporciona um cuidado delicado, deixando seus pés macios e renovados. Perfeito para uso em casa, é a solução prática e eficaz para um tratamento de pedicure profissional.",
+        "promocao": "true"
     },
     {
-        "nome": "Produto 6",
-        "descricao": "Descrição do produto 4 em promoção.",
-        "imagem": "https://via.placeholder.com/150",
-        "link": "https://shopee.com.br/exemplo-produto4",
-        "promocao": false
+        "nome": "Domino Profissional 28pçs",
+        "link": "https://shopee.com.br/Dominó-De-Osso-Profissional-28-Peças-i.1407655688.23093546409",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7rfg4-m30v5ky6cl414c.webp",
+        "descricao": "Este dominó de osso profissional é perfeito para quem aprecia um bom jogo de tabuleiro. Com 28 peças de alta qualidade, cada uma com acabamento refinado, garante durabilidade e uma experiência de jogo mais agradável. Ideal para jogos em família ou com amigos, é uma excelente opção para entretenimento e desafios intelectuais. Seu design clássico e elegante torna o dominó um item atemporal para colecionadores e entusiastas de jogos",
+        "promocao": "true"
+    },
+    {
+        "nome": "Forro de papel Airfryer",
+        "link": "https://shopee.com.br/Forro-de-Papel-Antiaderente-Para-Airfryer-–-50-unidades-i.1407655688.23293546222",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7rfg1-m30vm9l9duykf8.webp",
+        "descricao": "Facilite a limpeza e o preparo dos seus alimentos com este forro de papel antiaderente para Airfryer. Com 50 unidades, ele evita que a gordura grude na cesta, mantendo sua Airfryer limpa por mais tempo. Ideal para assar, fritar e grelhar, esse papel também protege os alimentos, garantindo que cozinhem de forma uniforme e sem bagunça. Prático, econômico e perfeito para quem busca conveniência no dia a dia.",
+        "promocao": "true"
+    },
+    {
+        "nome": "Moedor de Grãos",
+        "link": "https://shopee.com.br/Moedor-triturador-de-Grãos-Café-Elétrico-200w-110v-i.1407655688.22598048440",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7reqj-m2tnvjd53nal56.webp",
+        "descricao": "Prepare cafés frescos e aromáticos com este moedor elétrico de 200W. Ideal para triturar grãos de café, ele oferece moagem rápida e eficiente, garantindo a melhor extração de sabor. Compacto e fácil de usar, é perfeito para o uso doméstico, trazendo praticidade para o seu dia a dia. Aproveite café moído na hora com qualidade e sabor profissional!",
+        "promocao": "true"
+    },
+    {
+        "nome": "Fone de ouvido + Caixa",
+        "link": "https://shopee.com.br/Fone-de-Ouvido-e-Caixa-de-Som-Alto-Falante-Bluetooth-Sem-Fio-i.1407655688.22298063903",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7reqd-m2v4kur9cvzt2a.webp",
+        "descricao": "Tenha o melhor dos dois mundos com este dispositivo 2 em 1: fone de ouvido e caixa de som Bluetooth. Com design sem fio e moderno, ele proporciona praticidade e qualidade sonora superior. Ideal para quem busca versatilidade, pode ser usado como fone para momentos pessoais ou como caixa de som para compartilhar suas músicas favoritas. Compacto, portátil e fácil de conectar, é perfeito para qualquer ocasião.",
+        "promocao": "true"
+    },
+    {
+        "nome": "Cortina de led",
+        "link": "https://shopee.com.br/Cortina-de-Led-Decoração-com-Controle-Natal-i.1407655688.23393546790",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7renq-m2tqvg3kawmfab.webp",
+        "descricao": "Ilumine seu ambiente com estilo usando esta cortina de LED para decoração natalina. Com diversas opções de modos de luz controlados remotamente, ela é perfeita para criar um clima mágico e acolhedor. Ideal para janelas, paredes ou festas, sua instalação é prática e versátil. Adicione charme e elegância ao seu Natal com essa linda iluminação decorativa.",
+        "promocao": "true"
     }
-    
 ]
