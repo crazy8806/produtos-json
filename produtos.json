@@ -1,38 +1,44 @@
 [
     {
-        "nome": "Fone de Ouvido e Caixa de Som Alto Falante",
-        "descricao": "Aproveite a liberdade de ouvir suas músicas com qualidade de som excepcional, seja pelo fone de ouvido ou pelo alto-falante da caixa Bluetooth. Ideal para quem busca praticidade e desempenho, este produto oferece uma experiência sonora completa, sem a necessidade de cabos.",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7reqd-m2v4kur9cvzt2a.webp",
-        "link": "https://shopee.com.br/product/1407655688/22298063903/",
+        "nome": "Produto 1",
+        "descricao": "Descrição breve do produto 1.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto1",
         "promocao": true
     },
     {
-        "nome": "Mini Ventilador de teto super silencioso",
-        "descricao": "Transforme seu ambiente com a Lâmpada Ventilador Multifuncional, ideal para quem busca praticidade e eficiência. Este produto combina iluminação e ventilação em um único dispositivo, proporcionando conforto e frescor com um toque moderno.",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7renf-m2v29c930hwt81.webp",
-        "link": "https://shopee.com.br/product/1407655688/22493547718/",
+        "nome": "Produto 2",
+        "descricao": "Descrição breve do produto 2.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto2",
+        "promocao": false
+    },
+    {
+        "nome": "Produto 3",
+        "descricao": "Descrição breve do produto 3.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto3",
         "promocao": true
     },
     {
-        "nome": "Sapateira vertical 9 prateleiras",
-        "descricao": "A Sapateira Vertical Giga é a solução ideal para quem busca organização e praticidade no dia a dia. Com um design moderno e funcional, este organizador possui 9 prateleiras, permitindo o armazenamento de até 27 pares de sapatos. Ideal para otimizar espaços em closets, quartos ou até mesmo na entrada da casa.",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7rfgp-m30uz4y7unxj8d.webp",
-        "link": "https://shopee.com.br/Sapateira-Vertical-9-Prateleira-Organizador-i.1407655688.22998042844",
-        "promocao": true
+        "nome": "Produto 4",
+        "descricao": "Descrição breve do produto 3.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto3"
     },
     {
-        "nome": "Massageador Electrico ",
-        "descricao": "NOVA PISTOLA MASSAGEADORA PROFISSIONAL KH-525 NEW MUSCLE Portátil, Formato Pequeno, Leve, fácil de usar, silencioso, 20 opções de potência e velocidade, loga duração de bateria. Ajuda a aliviar a dor corporal após o exercício.",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7reqn-m2tlldezp8dp7d.webp",
-        "link": "https://shopee.com.br/Massageador-Elétrico-Profissional-Muscular-Pistola-Original-i.1407655688.21599554578"
-        "promocao": true
+        "nome": "Produto 5",
+        "descricao": "Descrição do produto 4 em promoção.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto4",
+        "promocao": false
     },
     {
-        "nome": "Domino 28 peças",
-        "descricao": "Dominó Profissional em Resina Duro - Estojo com 28 Peças",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134202-7rfg4-m30v5ky6cl414c.webp",
-        "link": "https://shopee.com.br/Dominó-De-Osso-Profissional-28-Peças-i.1407655688.23093546409",
+        "nome": "Produto 6",
+        "descricao": "Descrição do produto 4 em promoção.",
+        "imagem": "https://via.placeholder.com/150",
+        "link": "https://shopee.com.br/exemplo-produto4",
+        "promocao": false
     }
-   
     
 ]
