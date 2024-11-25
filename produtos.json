@@ -25,6 +25,7 @@
         "descricao": "Descrição breve do produto 3.",
         "imagem": "https://via.placeholder.com/150",
         "link": "https://shopee.com.br/exemplo-produto3"
+        "promocao": true
     },
     {
         "nome": "Domino 28 peças",
